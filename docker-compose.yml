@@ -1,0 +1,13 @@
+
+services:
+  schoolhelp:
+    container_name: shoolhelp
+    build:
+      context: .
+      dockerfile: docker/python/Dockerfile
+    environment:
+      URL: "schoolhelp.co.za"
+    ports:
+      - "8080:8080"
+
+
