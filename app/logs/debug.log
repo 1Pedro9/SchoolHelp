@@ -1,0 +1,504 @@
+[0;36mINFO[0m: 2026-01-15 18:28:35,346: [0;36mEnvironment is .env[0m
+[0;36mINFO[0m: 2026-01-15 18:28:35,346: [0;36mSetting language: en[0m
+[0;32mDEBUG[0m: 2026-01-15 18:28:35,347: [0;32mAssuming root path: /home/pedro/github/SchoolHelp/app, library path: /home/pedro/github/SchoolHelp/app/.venv/lib/python3.12/site-packages/tina4_python[0m
+[0;32mDEBUG[0m: 2026-01-15 18:28:35,475: [0;32mTEST TOKEN eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGluYTQiLCJleHBpcmVzIjoiMjAyNi0wMS0xNVQxNjozMDozNS40NzQwNDkrMDA6MDAifQ.BvSmQdejOqJZwgSHR1ToNqYF-oNBBN2dudb-uuBTi0qveh3ftBjY-wbv1XEWBN04DhkGj3p2Asd2rwjxNOooi0knpuV48xfxabtFeptZFKn5MsRUv_Vc8uXIMR2OR0kLC9ZxaPi8ojhios2VEbs6x_SuGDcTcj7pypUobLSiUWDE5EtOP5Rge1hMTN8bh5LZFYpqeTMArBarYNwM5EMTybOYsyDf0FoRCLlBhDDRgbroUNHUt4IeRCEHpbeTcuu1KOZDv0AXbZjnSkpNZVA2EB3TktUhxt6utBbVQQ-ELaWNmwRa0wk8w_li5oa4y_JQVvzt6-pPsDTE8V7hKSBxEQ[0m
+[0;32mDEBUG[0m: 2026-01-15 18:28:35,476: [0;32mVALID TOKEN False[0m
+[0;32mDEBUG[0m: 2026-01-15 18:28:35,476: [0;32mVALID TOKEN True[0m
+[0;32mDEBUG[0m: 2026-01-15 18:28:35,476: [0;32mPAYLOAD {'name': 'Tina4', 'expires': '2026-01-15T16:30:35.474049+00:00'}[0m
+[0;36mINFO[0m: 2026-01-15 18:28:35,713: [0;36mInitializing src folder[0m
+[0;36mINFO[0m: 2026-01-15 18:28:35,714: [0;36mNo .scss files found — skipping[0m
+[0;32mDEBUG[0m: 2026-01-15 18:28:35,715: [0;32mAdding a route: /swagger/swagger.json GET[0m
+[0;32mDEBUG[0m: 2026-01-15 18:28:35,716: [0;32mAdding a route: /swagger GET[0m
+[0;32mDEBUG[0m: 2026-01-15 18:28:35,716: [0;32mChecking /home/pedro/github/SchoolHelp/app/.venv/bin/tina4 for control functions[0m
+[0;32mDEBUG[0m: 2026-01-15 18:28:35,716: [0;32mTina4 - Can we start the webservice ? False[0m
+[0;36mINFO[0m: 2026-01-15 22:48:49,488: [0;36mEnvironment is .env[0m
+[0;36mINFO[0m: 2026-01-15 22:48:49,489: [0;36mSetting language: en[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:49,490: [0;32mAssuming root path: /home/pedro/github/SchoolHelp/app, library path: /home/pedro/github/SchoolHelp/app/.venv/lib/python3.12/site-packages/tina4_python[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:49,563: [0;32mTEST TOKEN eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGluYTQiLCJleHBpcmVzIjoiMjAyNi0wMS0xNVQyMDo1MDo0OS41NjE3MTgrMDA6MDAifQ.zMCCVI2jSNxrUnpjbWD7xuGOQhyMZ68clT9L7ypeVlv_VHC6Y3hjgjQa3vOKjw9Tqf9AP7ppPeJuC8mGEN0jikYWG1g-A_k6GrVvwwvtWjwWzArxH61eg39Irm36dln_SeQwXEesKwL_zDDP7rMjVWWYWFPZoNCCCtdrvNPdpeE94QbDp1agM148dv9qU_i4kOYJQ-PTEJqeNoBjsTXu0rvzPIEvS2F4eDHwZFTCcftn5ptkZt4L0Tg-LnzX_zekP8NesoI3h_C-14MQIjiowYAFUSjOSiI852M6GQ2Q2IEb9_EqMsM0NlZqTz_VR7AwObwy_S2NezfNbNPxgB_o6g[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:49,564: [0;32mVALID TOKEN False[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:49,564: [0;32mVALID TOKEN True[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:49,564: [0;32mPAYLOAD {'name': 'Tina4', 'expires': '2026-01-15T20:50:49.561718+00:00'}[0m
+[0;91mERROR[0m: 2026-01-15 22:48:49,631: [0;91mCannot import src folder No module named 'routes'[0m
+[0;36mINFO[0m: 2026-01-15 22:48:49,632: [0;36mNo .scss files found — skipping[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:49,634: [0;32mAdding a route: /swagger/swagger.json GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:49,635: [0;32mAdding a route: /swagger GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:49,635: [0;32mChecking /home/pedro/github/SchoolHelp/app/app.py for control functions[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:49,636: [0;32mTina4 - Can we start the webservice ? True[0m
+[0;91mERROR[0m: 2026-01-15 22:48:49,637: [0;91mFailed to autoload /home/pedro/github/SchoolHelp/app/src/routes/home.py: No module named 'routes'[0m
+[0;36mINFO[0m: 2026-01-15 22:48:49,639: [0;36mStarting webserver on 7145[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:49,639: [0;32mUsing hypercorn webserver[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:53,322: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:53,325: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:53,326: [0;32mInitializing Twig on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:53,340: [0;32mTwig Initialized on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:53,343: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:53,344: [0;32mGET Matching route  ['/swagger/swagger.json']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:53,344: [0;32mGET Matching route  ['/swagger']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:53,345: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:53,366: [0;32mGET Resolving URL: /images/404.png?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:53,366: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /images/404.png? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:53,366: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:53,367: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/images/404.png[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:53,406: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:53,406: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:53,407: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:48:53,407: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;36mINFO[0m: 2026-01-15 22:49:17,815: [0;36mServer stopped.[0m
+[0;36mINFO[0m: 2026-01-15 22:49:19,515: [0;36mEnvironment is .env[0m
+[0;36mINFO[0m: 2026-01-15 22:49:19,515: [0;36mSetting language: en[0m
+[0;32mDEBUG[0m: 2026-01-15 22:49:19,516: [0;32mAssuming root path: /home/pedro/github/SchoolHelp/app, library path: /home/pedro/github/SchoolHelp/app/.venv/lib/python3.12/site-packages/tina4_python[0m
+[0;32mDEBUG[0m: 2026-01-15 22:49:19,556: [0;32mTEST TOKEN eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGluYTQiLCJleHBpcmVzIjoiMjAyNi0wMS0xNVQyMDo1MToxOS41NTUwNDMrMDA6MDAifQ.brSSi3B9rNYXRAfZMXIvbMKwlehlDjJ7FQEC9z1vkn3MOKhAmHe3pWHUDDUCLC9FahxGqf8HfcCBRxY6C6qK32P5JCZv-OsSqpcXYNGAgWsnm6iLBCBCb1DKwEtuO1qUnhiyOUJyvDGYMi_GiOdNpHy-FnkwGD5K33Io7AQKTu5in3GexH3qAn21IVzKWrErmeE6yv30i9efbExOLZH84wNrS-pXZlJ-gr7pdMbzPdi0BeBDbzMqglZnRSG9bGpXxQLNJTixhPW0ut6dMkT036S-4cCUQSyorpACLdScNlhRHFTQUxIlPyZ03147UarsI6N4dHR3ETUmcq0jvMhEeQ[0m
+[0;32mDEBUG[0m: 2026-01-15 22:49:19,556: [0;32mVALID TOKEN False[0m
+[0;32mDEBUG[0m: 2026-01-15 22:49:19,556: [0;32mVALID TOKEN True[0m
+[0;32mDEBUG[0m: 2026-01-15 22:49:19,557: [0;32mPAYLOAD {'name': 'Tina4', 'expires': '2026-01-15T20:51:19.555043+00:00'}[0m
+[0;91mERROR[0m: 2026-01-15 22:49:19,590: [0;91mCannot import src folder No module named 'routes'[0m
+[0;36mINFO[0m: 2026-01-15 22:49:19,590: [0;36mNo .scss files found — skipping[0m
+[0;32mDEBUG[0m: 2026-01-15 22:49:19,591: [0;32mAdding a route: /swagger/swagger.json GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:49:19,591: [0;32mAdding a route: /swagger GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:49:19,592: [0;32mChecking /home/pedro/github/SchoolHelp/app/app.py for control functions[0m
+[0;32mDEBUG[0m: 2026-01-15 22:49:19,592: [0;32mTina4 - Can we start the webservice ? True[0m
+[0;91mERROR[0m: 2026-01-15 22:49:19,593: [0;91mFailed to autoload /home/pedro/github/SchoolHelp/app/src/routes/home.py: No module named 'routes'[0m
+[0;36mINFO[0m: 2026-01-15 22:49:19,593: [0;36mStarting webserver on 7145[0m
+[0;32mDEBUG[0m: 2026-01-15 22:49:19,593: [0;32mUsing hypercorn webserver[0m
+[0;36mINFO[0m: 2026-01-15 22:50:48,096: [0;36mServer stopped.[0m
+[0;36mINFO[0m: 2026-01-15 22:50:51,369: [0;36mEnvironment is .env[0m
+[0;36mINFO[0m: 2026-01-15 22:50:51,370: [0;36mSetting language: en[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:51,370: [0;32mAssuming root path: /home/pedro/github/SchoolHelp/app, library path: /home/pedro/github/SchoolHelp/app/.venv/lib/python3.12/site-packages/tina4_python[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:51,442: [0;32mTEST TOKEN eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGluYTQiLCJleHBpcmVzIjoiMjAyNi0wMS0xNVQyMDo1Mjo1MS40NDAwMDMrMDA6MDAifQ.wW_DrUFDSqAelo6baRrfXUd1hxnW5dGM7TD5MuZPFJVd8N0vrrH6TddgqsOx2nTx2muEL-jBTpDwlMSDYNdKaiujsBumfHoID1qc32gvwBB2JXcPiudt_xLxsdRwVweLOhuwgQdI7mdof5rA8NtX01o3ooMyCnlIA6is9vv9zPNevsM9ZlWNwehvimbVKS6qefbeNMbxGKN-YFWqRaBmHGXXx30nyEtVs6OYwj3DUSKiPNW8fZYT1dy3uKvjEZ1tsaSHA-UMS1BayPtz-Vmkr64THdHz5omcxSFz211HryBCrxn33Imks-bEfZI6L0RdbvcC6r5PpOhh5Ta97soM_w[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:51,442: [0;32mVALID TOKEN False[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:51,442: [0;32mVALID TOKEN True[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:51,443: [0;32mPAYLOAD {'name': 'Tina4', 'expires': '2026-01-15T20:52:51.440003+00:00'}[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:51,513: [0;32mAdding a route: / GET[0m
+[0;36mINFO[0m: 2026-01-15 22:50:51,514: [0;36mInitializing src folder[0m
+[0;36mINFO[0m: 2026-01-15 22:50:51,514: [0;36mNo .scss files found — skipping[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:51,516: [0;32mAdding a route: /swagger/swagger.json GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:51,516: [0;32mAdding a route: /swagger GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:51,517: [0;32mChecking /home/pedro/github/SchoolHelp/app/app.py for control functions[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:51,517: [0;32mTina4 - Can we start the webservice ? True[0m
+[0;36mINFO[0m: 2026-01-15 22:50:51,520: [0;36mStarting webserver on 7145[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:51,520: [0;32mUsing hypercorn webserver[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:59,314: [0;32mSession expired, starting a new one[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:59,317: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:59,319: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:59,319: [0;32mInitializing Twig on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:59,323: [0;32mTwig Initialized on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:59,328: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:50:59,328: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:26,318: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:26,318: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:26,318: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:26,318: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:26,318: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:26,336: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:26,336: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:26,336: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:26,337: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:28,454: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:28,454: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:28,455: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:28,455: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:28,455: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:28,481: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:28,481: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:28,481: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:28,482: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:29,133: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:29,133: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:29,133: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:29,134: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:29,134: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:29,159: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:29,160: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:29,160: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:29,160: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:31,605: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:31,605: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:31,606: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:31,606: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:31,606: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:31,632: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:31,632: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:31,632: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:51:31,633: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;36mINFO[0m: 2026-01-15 22:51:38,336: [0;36mServer stopped.[0m
+[0;36mINFO[0m: 2026-01-15 22:52:04,402: [0;36mEnvironment is .env[0m
+[0;36mINFO[0m: 2026-01-15 22:52:04,403: [0;36mSetting language: en[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:04,404: [0;32mAssuming root path: /home/pedro/github/SchoolHelp/app, library path: /home/pedro/github/SchoolHelp/app/.venv/lib/python3.12/site-packages/tina4_python[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:04,471: [0;32mTEST TOKEN eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGluYTQiLCJleHBpcmVzIjoiMjAyNi0wMS0xNVQyMDo1NDowNC40Njk1NDUrMDA6MDAifQ.hyQDmSXZB2hMazbznkd8n-9DYud9NjZEJV4kZdxfnYYq-cx0jpe1O4aLlnj9Bv-1JVIFxHVIq-I3xXQN3fhkBeuVRKRcEiGEkJpcQ8DRKENoDkmcDz6CQAHuTIcyFqV1RCcUsOWXmTG1r31cFeCwiuGXp41NYB6gCVp0wlNmHWF3dZh9UBZSCXQhv0u97gys9yVL68gyz8HQBAETMnuJmPaeV6z3HQ0HWtK1-7yz84FokIkVgMzrK4F6QgwDJP_bNK8jx6ilYLIBT8-6qGWHejnleCSI8KnM-wU6WL-kG8kolXBxQxoFE1GUPkYPBt6vsQvXUodBKZZjm9dj7YDG9Q[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:04,472: [0;32mVALID TOKEN False[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:04,472: [0;32mVALID TOKEN True[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:04,472: [0;32mPAYLOAD {'name': 'Tina4', 'expires': '2026-01-15T20:54:04.469545+00:00'}[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:04,542: [0;32mAdding a route: / GET[0m
+[0;36mINFO[0m: 2026-01-15 22:52:04,543: [0;36mInitializing src folder[0m
+[0;36mINFO[0m: 2026-01-15 22:52:04,543: [0;36mNo .scss files found — skipping[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:04,545: [0;32mAdding a route: /swagger/swagger.json GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:04,545: [0;32mAdding a route: /swagger GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:04,546: [0;32mChecking /home/pedro/github/SchoolHelp/app/app.py for control functions[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:04,546: [0;32mTina4 - Can we start the webservice ? True[0m
+[0;36mINFO[0m: 2026-01-15 22:52:04,548: [0;36mStarting webserver on 7145[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:04,549: [0;32mUsing hypercorn webserver[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:06,328: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:06,329: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:06,329: [0;32mInitializing Twig on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:06,332: [0;32mTwig Initialized on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:06,336: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:06,336: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:06,365: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:06,365: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:06,365: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:06,365: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:08,962: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:08,962: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:08,962: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:08,963: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:08,963: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:08,989: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:08,989: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:08,990: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:08,990: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,168: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,168: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,169: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,169: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,169: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,192: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,193: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,193: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,193: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,294: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,295: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,295: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,295: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,295: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,321: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,321: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,321: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,321: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,416: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,416: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,416: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,417: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,417: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,441: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,442: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,442: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,442: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,528: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,528: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,529: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,529: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,529: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,555: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,555: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,555: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:09,555: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;36mINFO[0m: 2026-01-15 22:52:26,773: [0;36mServer stopped.[0m
+[0;36mINFO[0m: 2026-01-15 22:52:28,270: [0;36mEnvironment is .env[0m
+[0;36mINFO[0m: 2026-01-15 22:52:28,270: [0;36mSetting language: en[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:28,271: [0;32mAssuming root path: /home/pedro/github/SchoolHelp/app, library path: /home/pedro/github/SchoolHelp/app/.venv/lib/python3.12/site-packages/tina4_python[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:28,338: [0;32mTEST TOKEN eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGluYTQiLCJleHBpcmVzIjoiMjAyNi0wMS0xNVQyMDo1NDoyOC4zMzY3NzArMDA6MDAifQ.BdBTQvxDrZd1GZsyMvSJ7Tw9cpDk6YY1Gx_P_e-7ggPIJRBXAi2Zh2NeP5jqLUDch8YKiActBcOhmEYnmbrTJDfTq_Zt-rqVAwPdI9PV7skuRCR6r3uvOILWmWYg7epm9gkJ0oirlC6RsON5CFM3QJmNbZ-dnZg13Uf4iOLjx1y0agy6Jn1IDQNk7DE24QyvtBzsdxKGx7Ufm4zAydSeKuUn6Ad1Jp_efn-VYrWYvhnJTBFz-WnAyCBbmvBR8DSVaAkkyQ81td3IPvFqjrpCVLeUFmTSvrRfjK2K24g-P0-ili2vssQNO5ijpuOJNUvIrZulYydAy5BOcJDXFrSxvA[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:28,339: [0;32mVALID TOKEN False[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:28,339: [0;32mVALID TOKEN True[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:28,339: [0;32mPAYLOAD {'name': 'Tina4', 'expires': '2026-01-15T20:54:28.336770+00:00'}[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:28,402: [0;32mAdding a route: / GET[0m
+[0;36mINFO[0m: 2026-01-15 22:52:28,403: [0;36mInitializing src folder[0m
+[0;36mINFO[0m: 2026-01-15 22:52:28,403: [0;36mNo .scss files found — skipping[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:28,405: [0;32mAdding a route: /swagger/swagger.json GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:28,405: [0;32mAdding a route: /swagger GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:28,405: [0;32mChecking /home/pedro/github/SchoolHelp/app/app.py for control functions[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:28,406: [0;32mTina4 - Can we start the webservice ? True[0m
+[0;36mINFO[0m: 2026-01-15 22:52:28,408: [0;36mStarting webserver on 7145[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:28,408: [0;32mUsing hypercorn webserver[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:39,083: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:39,084: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:39,085: [0;32mInitializing Twig on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:39,088: [0;32mTwig Initialized on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:39,092: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:39,092: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:39,119: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:39,119: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:39,119: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:39,120: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,203: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,203: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,203: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,204: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,204: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,232: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,232: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,232: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,232: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,600: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,600: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,601: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,601: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,601: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,626: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,626: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,626: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:40,627: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:44,174: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:44,175: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:44,175: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:44,175: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:44,176: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:44,201: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:44,201: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:44,201: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:44,202: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;36mINFO[0m: 2026-01-15 22:52:52,810: [0;36mServer stopped.[0m
+[0;36mINFO[0m: 2026-01-15 22:52:55,262: [0;36mEnvironment is .env[0m
+[0;36mINFO[0m: 2026-01-15 22:52:55,263: [0;36mSetting language: en[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:55,263: [0;32mAssuming root path: /home/pedro/github/SchoolHelp/app, library path: /home/pedro/github/SchoolHelp/app/.venv/lib/python3.12/site-packages/tina4_python[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:55,332: [0;32mTEST TOKEN eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGluYTQiLCJleHBpcmVzIjoiMjAyNi0wMS0xNVQyMDo1NDo1NS4zMzA1NzYrMDA6MDAifQ.hK8kiGozT_N0dOxNEeS0WER7nsi8Q2MHO3un31a2JG3FtZCOdoXnxF6NMJNZf5Fbxx5RWp9aDrBbzjAoxQPdk-F4L4P7n-wGsEpTDj-8VlFwijx4IcvPUSR_a9tZZfoH04z2JG4YSPMtIvA3H-mz8CzbHwl-_y7pjvJngkwc-Ai4UF8sI12cdKh4Lo4g3K7ULppo4ZfFrRNFM5tAWEv4RCfFWpSThrux0bnWi_ZvhqmlAhI8_qepe57YhRGW2hQHjZ_h6HIMYKwcfb-w03HlY2jUVohkvFq2NjjQdYevNyRr3M3zLi3hQMcbyrH-SKR2a5v4Avf31qU8Lsgf_J-K8Q[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:55,333: [0;32mVALID TOKEN False[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:55,333: [0;32mVALID TOKEN True[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:55,334: [0;32mPAYLOAD {'name': 'Tina4', 'expires': '2026-01-15T20:54:55.330576+00:00'}[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:55,405: [0;32mAdding a route: / GET[0m
+[0;36mINFO[0m: 2026-01-15 22:52:55,405: [0;36mInitializing src folder[0m
+[0;36mINFO[0m: 2026-01-15 22:52:55,406: [0;36mNo .scss files found — skipping[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:55,407: [0;32mAdding a route: /swagger/swagger.json GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:55,408: [0;32mAdding a route: /swagger GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:55,408: [0;32mChecking /home/pedro/github/SchoolHelp/app/app.py for control functions[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:55,408: [0;32mTina4 - Can we start the webservice ? True[0m
+[0;36mINFO[0m: 2026-01-15 22:52:55,410: [0;36mStarting webserver on 7145[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:55,411: [0;32mUsing hypercorn webserver[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:57,437: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:57,439: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:57,439: [0;32mInitializing Twig on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:57,442: [0;32mTwig Initialized on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:57,446: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:57,447: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:57,472: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:57,473: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:57,473: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:52:57,473: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:10,260: [0;32mSession expired, starting a new one[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:10,263: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:10,263: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:10,263: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:10,264: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:10,264: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:10,290: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:10,290: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:10,291: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:10,291: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;36mINFO[0m: 2026-01-15 22:53:16,252: [0;36mServer stopped.[0m
+[0;36mINFO[0m: 2026-01-15 22:53:19,386: [0;36mEnvironment is .env[0m
+[0;36mINFO[0m: 2026-01-15 22:53:19,386: [0;36mSetting language: en[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:19,387: [0;32mAssuming root path: /home/pedro/github/SchoolHelp/app, library path: /home/pedro/github/SchoolHelp/app/.venv/lib/python3.12/site-packages/tina4_python[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:19,459: [0;32mTEST TOKEN eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGluYTQiLCJleHBpcmVzIjoiMjAyNi0wMS0xNVQyMDo1NToxOS40NTc2NzArMDA6MDAifQ.b8JhpL6_OYMJztydgWgCuFLO-ceYG_iZB8LU_TdioXseHaUtqKDswqWHIfkl5TucaM-SMrfZHUzHdV6dJWr_BRtpQNcQnLbbxnF0GKvmCgAYrim4Cb9KlzdLMSKprPIrpjyr8LYyuSB-JhO-zjpU0_JWI5qJ5BaG8ODel1ZZEfMwxYjybfoSjgXQv1VgKFRmu-oP9RtWcEZQ2Gw746kanF3t3vnIS435cAXpydEZ-cR7Jg366fHCxH5dQZzfnQjq3nZe0PdOSrNSeqm8oeVr6gFou3VP_JVf7yNjzB5FCALukYm3j21MTmL-Dhlt-6HZPaIr0K-fhTzWP4iD1D-5Vw[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:19,460: [0;32mVALID TOKEN False[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:19,460: [0;32mVALID TOKEN True[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:19,460: [0;32mPAYLOAD {'name': 'Tina4', 'expires': '2026-01-15T20:55:19.457670+00:00'}[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:19,529: [0;32mAdding a route: / GET[0m
+[0;36mINFO[0m: 2026-01-15 22:53:19,529: [0;36mInitializing src folder[0m
+[0;36mINFO[0m: 2026-01-15 22:53:19,530: [0;36mNo .scss files found — skipping[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:19,532: [0;32mAdding a route: /swagger/swagger.json GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:19,532: [0;32mAdding a route: /swagger GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:19,532: [0;32mChecking /home/pedro/github/SchoolHelp/app/app.py for control functions[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:19,533: [0;32mTina4 - Can we start the webservice ? True[0m
+[0;36mINFO[0m: 2026-01-15 22:53:19,534: [0;36mStarting webserver on 7145[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:19,535: [0;32mUsing hypercorn webserver[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:21,972: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:21,973: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:21,974: [0;32mInitializing Twig on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:21,977: [0;32mTwig Initialized on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:21,981: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:21,981: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:22,008: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:22,009: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:22,009: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:53:22,009: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:37,453: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:37,453: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:37,454: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:37,454: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:37,455: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:37,480: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:37,480: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:37,481: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:37,481: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;36mINFO[0m: 2026-01-15 22:54:55,924: [0;36mServer stopped.[0m
+[0;36mINFO[0m: 2026-01-15 22:54:58,519: [0;36mEnvironment is .env[0m
+[0;36mINFO[0m: 2026-01-15 22:54:58,519: [0;36mSetting language: en[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:58,520: [0;32mAssuming root path: /home/pedro/github/SchoolHelp/app, library path: /home/pedro/github/SchoolHelp/app/.venv/lib/python3.12/site-packages/tina4_python[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:58,590: [0;32mTEST TOKEN eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGluYTQiLCJleHBpcmVzIjoiMjAyNi0wMS0xNVQyMDo1Njo1OC41ODgxMjgrMDA6MDAifQ.wAK1AFaLwXuSR9g94pZ8yFrvix3apuaqLt3eXjjQfmmKNNuRKkgt6pO0ti7hzHsLORweaOZ9tv5y_NQT0dgKifX9tSwtesPysC-I2l727GUfs_QAJ_0W4CFLDpTnx37An2Ldx2xCQM-dC7yZSb2Ye59hjWlsuRYgy0t8W4xNekC7A_Qw3U6WisRAgFY8wsTVa-pKQICNn0UygHzzfc8uuFaXvabC1_-37tIr_0moawKdtrcKmBQGtcjvShwQ88pDDCAuCKL6mxAoSgsrWhkFi6xatlhxCS-06Cr-fQ8bRmk-aBWytyt7dgCO0TwNJFSLFE77fy5wZrbNTzGU1bQ5vQ[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:58,590: [0;32mVALID TOKEN False[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:58,591: [0;32mVALID TOKEN True[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:58,591: [0;32mPAYLOAD {'name': 'Tina4', 'expires': '2026-01-15T20:56:58.588128+00:00'}[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:58,656: [0;32mAdding a route: / GET[0m
+[0;36mINFO[0m: 2026-01-15 22:54:58,656: [0;36mInitializing src folder[0m
+[0;36mINFO[0m: 2026-01-15 22:54:58,656: [0;36mNo .scss files found — skipping[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:58,658: [0;32mAdding a route: /swagger/swagger.json GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:58,658: [0;32mAdding a route: /swagger GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:58,659: [0;32mChecking /home/pedro/github/SchoolHelp/app/app.py for control functions[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:58,659: [0;32mTina4 - Can we start the webservice ? True[0m
+[0;36mINFO[0m: 2026-01-15 22:54:58,661: [0;36mStarting webserver on 7145[0m
+[0;32mDEBUG[0m: 2026-01-15 22:54:58,661: [0;32mUsing hypercorn webserver[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:00,787: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:00,788: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:00,789: [0;32mInitializing Twig on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:00,792: [0;32mTwig Initialized on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:00,795: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:00,796: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:00,828: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:00,828: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:00,828: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:00,829: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:19,863: [0;32mSession expired, starting a new one[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:19,864: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:19,864: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:19,865: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:19,865: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:19,865: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:19,882: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:19,882: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:19,882: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:19,882: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;36mINFO[0m: 2026-01-15 22:55:22,819: [0;36mServer stopped.[0m
+[0;36mINFO[0m: 2026-01-15 22:55:24,006: [0;36mEnvironment is .env[0m
+[0;36mINFO[0m: 2026-01-15 22:55:24,007: [0;36mSetting language: en[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:24,008: [0;32mAssuming root path: /home/pedro/github/SchoolHelp/app, library path: /home/pedro/github/SchoolHelp/app/.venv/lib/python3.12/site-packages/tina4_python[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:24,078: [0;32mTEST TOKEN eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGluYTQiLCJleHBpcmVzIjoiMjAyNi0wMS0xNVQyMDo1NzoyNC4wNzY0NDQrMDA6MDAifQ.kQUndFQCLVuzO03hjI-CBe2mJKLyRlMlTa3FCbDSMgBKpcnxBJbz4aUFTXqiPUugeXpIfImZ7exLGZhV-AouV_BZYfruD_tjE2mobwuDYcqBH9mcMKx4xlLLqPZIUlBl4X0xxqGGuHtRcjO_wADYXQbwnP3UD6JH0XN7J25Q9oy3Gu3RwTIYCy1wT6xjGTGwunaWvLqZiAA6yB_WFxGbguXQuM12-cNCkPwJaNeYtNZ-iI_DM0cyUSOgutLIMrE9HInQJGfxYe83RZC0jFVT0nNUPbdBw0y31YFI0TnAMi2CIHLnsWrP0W2X22XdXk7KPvEhUIg31R-SIC1yrPlwUw[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:24,079: [0;32mVALID TOKEN False[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:24,079: [0;32mVALID TOKEN True[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:24,079: [0;32mPAYLOAD {'name': 'Tina4', 'expires': '2026-01-15T20:57:24.076444+00:00'}[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:24,144: [0;32mAdding a route: / GET[0m
+[0;36mINFO[0m: 2026-01-15 22:55:24,144: [0;36mInitializing src folder[0m
+[0;36mINFO[0m: 2026-01-15 22:55:24,144: [0;36mNo .scss files found — skipping[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:24,147: [0;32mAdding a route: /swagger/swagger.json GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:24,147: [0;32mAdding a route: /swagger GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:24,147: [0;32mChecking /home/pedro/github/SchoolHelp/app/app.py for control functions[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:24,148: [0;32mTina4 - Can we start the webservice ? True[0m
+[0;36mINFO[0m: 2026-01-15 22:55:24,150: [0;36mStarting webserver on 7145[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:24,150: [0;32mUsing hypercorn webserver[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:25,672: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:25,673: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:25,674: [0;32mInitializing Twig on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:25,677: [0;32mTwig Initialized on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:25,682: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:25,682: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:25,711: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:25,711: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:25,711: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:55:25,712: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:38,634: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:38,634: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:38,635: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:38,635: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:38,635: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:38,663: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:38,663: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:38,663: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:38,664: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:40,517: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:40,517: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:40,517: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:40,518: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:40,518: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:40,547: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:40,547: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:40,547: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:56:40,548: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:05,737: [0;32mSession expired, starting a new one[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:05,740: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:05,740: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:05,740: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:05,741: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:05,741: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:05,768: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:05,768: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:05,769: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:05,769: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:06,717: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:06,718: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:06,718: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:06,718: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:06,718: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:06,745: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:06,745: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:06,745: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:06,745: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,051: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,051: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,051: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,051: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,051: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,077: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,077: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,077: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,077: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,184: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,184: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,184: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,185: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,185: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,212: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,213: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,213: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:07,213: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;36mINFO[0m: 2026-01-15 22:58:08,890: [0;36mServer stopped.[0m
+[0;36mINFO[0m: 2026-01-15 22:58:10,592: [0;36mEnvironment is .env[0m
+[0;36mINFO[0m: 2026-01-15 22:58:10,592: [0;36mSetting language: en[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:10,593: [0;32mAssuming root path: /home/pedro/github/SchoolHelp/app, library path: /home/pedro/github/SchoolHelp/app/.venv/lib/python3.12/site-packages/tina4_python[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:10,662: [0;32mTEST TOKEN eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGluYTQiLCJleHBpcmVzIjoiMjAyNi0wMS0xNVQyMTowMDoxMC42NjAwMzkrMDA6MDAifQ.daH9aDg25DfmAKvzN3WpxNn1z1NJEEp4WnoIeQXjBbvyw2RFBP4JQtlwkoI_97nWLKJ_FzeE4MYDwkk44v_rKheYQr8Zn_besaIxgPUOmGuxYJECjogHm7hkfX3a9nA5MxTlDBt5DeX_w1NVSUKWefsnMOuQFpcw1n82i6GRp1g1nhFe4lFidlhiSfxim2C0-Wni7q_T2Ddg7zhe7Q5EfRfef0TwkOCRFUMGbTvWOHNILmseX-PNYIaxEu3MWlCckc-S__AOBk2SXtgVCJEJnFfFon3bzC-v9nsYKUXT7z0pNTt0UG5Ry7TqmcjdXOL1v35yLJzoU2L7DGKbpimznw[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:10,662: [0;32mVALID TOKEN False[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:10,662: [0;32mVALID TOKEN True[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:10,663: [0;32mPAYLOAD {'name': 'Tina4', 'expires': '2026-01-15T21:00:10.660039+00:00'}[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:10,726: [0;32mAdding a route: / GET[0m
+[0;36mINFO[0m: 2026-01-15 22:58:10,726: [0;36mInitializing src folder[0m
+[0;36mINFO[0m: 2026-01-15 22:58:10,727: [0;36mNo .scss files found — skipping[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:10,729: [0;32mAdding a route: /swagger/swagger.json GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:10,729: [0;32mAdding a route: /swagger GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:10,729: [0;32mChecking /home/pedro/github/SchoolHelp/app/app.py for control functions[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:10,729: [0;32mTina4 - Can we start the webservice ? True[0m
+[0;36mINFO[0m: 2026-01-15 22:58:10,731: [0;36mStarting webserver on 7145[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:10,732: [0;32mUsing hypercorn webserver[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:11,717: [0;32mGET Resolving URL: /?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:11,718: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:11,719: [0;32mInitializing Twig on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:11,722: [0;32mTwig Initialized on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:11,726: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:11,726: [0;32mGET Matching route  ['/']  to  /[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:11,726: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:11,754: [0;32mGET Resolving URL: /favicon.ico?[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:11,755: [0;32mRoot Path /home/pedro/github/SchoolHelp/app /favicon.ico? GET[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:11,755: [0;32mTwig found on /home/pedro/github/SchoolHelp/app/src/templates[0m
+[0;32mDEBUG[0m: 2026-01-15 22:58:11,755: [0;32mAttempting to serve static file: /home/pedro/github/SchoolHelp/app/src/public/favicon.ico[0m
+[0;36mINFO[0m: 2026-01-15 22:58:21,576: [0;36mServer stopped.[0m
+[0;36mINFO[0m: 2026-01-16 10:58:06,476: [0;36mEnvironment is .env[0m
+[0;36mINFO[0m: 2026-01-16 10:58:06,477: [0;36mSetting language: en[0m
+[0;32mDEBUG[0m: 2026-01-16 10:58:06,477: [0;32mAssuming root path: /home/pedro/github/SchoolHelp/app, library path: /home/pedro/github/SchoolHelp/app/.venv/lib/python3.12/site-packages/tina4_python[0m
+[0;32mDEBUG[0m: 2026-01-16 10:58:06,527: [0;32mTEST TOKEN eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGluYTQiLCJleHBpcmVzIjoiMjAyNi0wMS0xNlQwOTowMDowNi41MjU1NjQrMDA6MDAifQ.Hnr4aw2-H7S5MsYh_POgLbyoMs6sKaEViKD_JjTtQ2Lp7vXtw7IWdmD8xshcccuPbP126Nta14QUdVmCD5MsdWmQqigRxoKh9YU9PKa_8hM0zyamN6XL8Vuyxp2tVUv2jY8sa_noAeidN7GhZ3s6aCdZNrRgVBIf38I0-lLq13yvXlRX_KE-T3xVCvgbz3XZl-FeHQ_kzm131dhF3F38p1A1GKIkj5-YyNKCphx1XR-HOlte6Rf1Rr3CAnn1_63srDdaTewwXZ3StBrk809uc4zTfK_AQTAX11vRr9tQ0AAN23IZVUkiGBzyctcBDfCzYbuNjGPYfvcbs12zIZcT3A[0m
+[0;32mDEBUG[0m: 2026-01-16 10:58:06,527: [0;32mVALID TOKEN False[0m
+[0;32mDEBUG[0m: 2026-01-16 10:58:06,528: [0;32mVALID TOKEN True[0m
+[0;32mDEBUG[0m: 2026-01-16 10:58:06,528: [0;32mPAYLOAD {'name': 'Tina4', 'expires': '2026-01-16T09:00:06.525564+00:00'}[0m
+[0;32mDEBUG[0m: 2026-01-16 10:58:06,579: [0;32mAdding a route: / GET[0m
+[0;36mINFO[0m: 2026-01-16 10:58:06,579: [0;36mInitializing src folder[0m
+[0;36mINFO[0m: 2026-01-16 10:58:06,579: [0;36mNo .scss files found — skipping[0m
+[0;32mDEBUG[0m: 2026-01-16 10:58:06,580: [0;32mAdding a route: /swagger/swagger.json GET[0m
+[0;32mDEBUG[0m: 2026-01-16 10:58:06,581: [0;32mAdding a route: /swagger GET[0m
+[0;32mDEBUG[0m: 2026-01-16 10:58:06,581: [0;32mChecking /home/pedro/github/SchoolHelp/app/app.py for control functions[0m
+[0;32mDEBUG[0m: 2026-01-16 10:58:06,581: [0;32mTina4 - Can we start the webservice ? True[0m
+[0;36mINFO[0m: 2026-01-16 10:58:06,617: [0;36mAutoloaded: src.orm.Member[0m
+[0;36mINFO[0m: 2026-01-16 10:58:06,618: [0;36mStarting webserver on 7145[0m
+[0;32mDEBUG[0m: 2026-01-16 10:58:06,618: [0;32mUsing hypercorn webserver[0m
+[0;36mINFO[0m: 2026-01-16 10:58:51,332: [0;36mServer stopped.[0m
+[0;36mINFO[0m: 2026-01-16 14:16:11,737: [0;36mEnvironment is .env[0m
+[0;36mINFO[0m: 2026-01-16 14:16:11,738: [0;36mSetting language: en[0m
+[0;32mDEBUG[0m: 2026-01-16 14:16:11,738: [0;32mAssuming root path: /home/pedro/github/SchoolHelp/app, library path: /home/pedro/github/SchoolHelp/app/.venv/lib/python3.12/site-packages/tina4_python[0m
+[0;32mDEBUG[0m: 2026-01-16 14:16:11,788: [0;32mTEST TOKEN eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGluYTQiLCJleHBpcmVzIjoiMjAyNi0wMS0xNlQxMjoxODoxMS43ODY2NDQrMDA6MDAifQ.Q9ApkJ_waYCe36hJJ0ZtrZCGic3AYzOMmgulA20T-gSiJkNTV2qJjAeny2U6gcLzlVdUYapRROU8XLEZRJFe-jjh_twDStlREye70Pkk9aLSc3eaHevWQ_XydOu6Gf4YOJ815NW1u8yF0_eQB723Tt2elhp9bVx8TFXw_jIFckpaVdhIqGH6wL3yKxYgqrUi5lIyPIZzT_SxVF-Em3CWUIzr2_erbIgOSw97ilwjdp-Cx5SL9PuVdS-L2OsGChOw5WA9uiUAfB_pk5kRcfUI5p_1hX-9qqWG1d8GaP37BuFXr8yg9YcWRpoD3o0ogEKdvg4fZA0HlInO5PfzW69nYQ[0m
+[0;32mDEBUG[0m: 2026-01-16 14:16:11,789: [0;32mVALID TOKEN False[0m
+[0;32mDEBUG[0m: 2026-01-16 14:16:11,789: [0;32mVALID TOKEN True[0m
+[0;32mDEBUG[0m: 2026-01-16 14:16:11,789: [0;32mPAYLOAD {'name': 'Tina4', 'expires': '2026-01-16T12:18:11.786644+00:00'}[0m
+[0;32mDEBUG[0m: 2026-01-16 14:16:11,840: [0;32mAdding a route: / GET[0m
+[0;36mINFO[0m: 2026-01-16 14:16:11,841: [0;36mInitializing src folder[0m
+[0;36mINFO[0m: 2026-01-16 14:16:11,841: [0;36mNo .scss files found — skipping[0m
+[0;32mDEBUG[0m: 2026-01-16 14:16:11,842: [0;32mAdding a route: /swagger/swagger.json GET[0m
+[0;32mDEBUG[0m: 2026-01-16 14:16:11,842: [0;32mAdding a route: /swagger GET[0m
+[0;32mDEBUG[0m: 2026-01-16 14:16:11,843: [0;32mChecking /home/pedro/github/SchoolHelp/app/app.py for control functions[0m
+[0;32mDEBUG[0m: 2026-01-16 14:16:11,843: [0;32mTina4 - Can we start the webservice ? True[0m
+[0;36mINFO[0m: 2026-01-16 14:16:11,876: [0;36mAutoloaded: src.orm.Member[0m
+[0;36mINFO[0m: 2026-01-16 14:16:11,877: [0;36mStarting webserver on 8080[0m
+[0;32mDEBUG[0m: 2026-01-16 14:16:11,878: [0;32mUsing hypercorn webserver[0m
